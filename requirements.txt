@@ -1,0 +1,4 @@
+aiogram==3.19.0
+arxiv==2.2.0
+bibmanager==1.4.13
+python-decouple==3.8
